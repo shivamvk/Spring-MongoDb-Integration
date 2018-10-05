@@ -1,5 +1,5 @@
 # Spring-MongoDb-Integration
-A rest api for login and signup with using framework springboot and database mongodb
+A rest api for login and signup using framework springboot and database mongodb
 
 Mappings are:
 
